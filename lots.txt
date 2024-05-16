@@ -1,0 +1,74 @@
+Name: 102 Broad Street Distance to Stadium: 0.5 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 4, 0.5
+Name: 110 Ted Turner Drive SW Distance to Stadium: 0.4 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 4, 0
+Name: 123 Marietta, Distance to Stadium: Not Provided, Covered/Uncovered: Not Provided, Tailgating Allowed: Not Provided, Nearest Gate: Not Provided
+Name: 127 International Distance to Stadium: 0.6 miles Covered/Uncovered: Uncovered Tailgating Allowed: No Nearest Gate: Gates 2, 3, or
+Name: 134 Forsyth Street Distance to Stadium: 0.4 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 4 Distance to
+Name: 135 Forsyth Street Distance to Stadium: 0.4 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 4 Distance to
+Name: 17 Baker Distance to Stadium: 1 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gates 2, 3, or 4
+Name: 171 Peachtree Street SW Distance to Stadium: 0.6 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 4, 0
+Name: 195 Trinity Avenue SW Distance to Stadium: 0.5 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 4 Distance to
+Name: 218 Peachtree Distance to Stadium: 0.8 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Gates 2, 3, or
+Name: 305 Ted Turner Distance to Stadium: 1.1 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gates 2, 3, or
+Name: 341 Lot Distance to Stadium: 1 miles Covered/Uncovered: Uncovered Tailgating Allowed: No Nearest Gate: Not specified
+Name: 433 Nelson St Distance to Stadium: 0.4 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gates 2-4
+Name: 504 Fair Street Distance to Stadium: 0.4 miles Covered/Uncovered: Uncovered Tailgating Allowed: No Nearest Gate: Gates 2-4
+Name: 76 Forsyth Street Garage Distance to Stadium: 0.4 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Gate 4
+Name: 98 Cone Street Distance to Stadium: 0.6 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Gates 2, 3, or
+Name: AJC Lot Distance to Stadium: 0.4 miles Covered/Uncovered: Uncovered Tailgating Allowed: No Nearest Gate: Gates 2, 3, or
+Name: Aquarium Garage Distance to Stadium: 0.8 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Gates 2, 3, or 4 
+Name: Atlanta Underground Distance to Stadium: 0.6 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Gate 4, 10-15 minutes
+Name: Birds Cage Distance to Stadium: 0.7 miles Covered/Uncovered: Uncovered Tailgating Allowed: No Nearest Gate: Not specified
+Name: Blue Lot Distance to Stadium: 0.09 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 1 Distance to Nearest Gate
+Name: CAU Parking Deck Distance to Stadium: 0.9 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Not specified
+Name: Centennial Yards Lot B Distance to Stadium: 0.2 miles Covered/Uncovered: Covered Tailgating Allowed: Yes Nearest Gate: Gates 2 and 3
+Name: City Plaza Distance to Stadium: 0.6 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gates 2, 3, or 4
+Name: Clark ATL 57 Walnut Distance to Stadium: 0.5 miles Covered/Uncovered: Uncovered Tailgating Allowed: No Nearest Gate: Not specified
+Name: CNN Deck Distance to Stadium: 0.4 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Gates 2-4
+Name: CSX Lot Distance to Stadium: 0.4 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 4
+Name: CUMC Distance to Stadium: 0.1 miles Covered/Uncovered: Uncovered Tailgating Allowed: No Nearest Gate: Gate 1 Distance to Nearest
+Name: Diamond Deck Distance to Stadium: 0.15 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Not specified
+Name: Dome 2 Distance to Stadium: 0.3 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 1 Distance to Nearest
+Name: Dome Lot Distance to Stadium: 0.1 miles Covered/Uncovered: Uncovered Tailgating Allowed: No Nearest Gate: Not specified
+Name: Family Tailgate Lot Distance to Stadium: 0.3 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Not specified Distance to Nearest
+Name: FBC Lot Distance to Stadium: 0.35 miles Covered/Uncovered: Uncovered Tailgating Allowed: No Nearest Gate: Not specified
+Name: Georgia Bar Association Garage Distance to Stadium: 0.7 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Not specified
+Name: Green Deck Distance to Stadium: 0.7 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Gate 2 or 3, 5-10
+Name: I Deck Distance to Stadium: 0.6 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Gate 2 or 3, 10-15
+Name: J Deck Distance to Stadium: 0.7 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Gates 2, 3, or 4
+Name: Levy Lot, Distance to Stadium: 0.1 miles, Covered/Uncovered: Uncovered, Tailgating Allowed: No, Nearest Gate: Not specified
+Name: Lot 17 Distance to Stadium: 0.1 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 4 Distance to Nearest
+Name: Lot 36 Distance to Stadium: 0.9 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 4 Distance to Nearest
+Name: Lot 37 Distance to Stadium: 0.9 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 4 Distance to Nearest
+Name: Lot 43 Distance to Stadium: 0.9 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 4 Distance to Nearest
+Name: Lot 432 Distance to Stadium: 0.5 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Not specified Nearest Gate Distance:
+Name: Lot 44 Distance to Stadium: 0.9 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 4 Distance to Nearest
+Name: Lot 547 Distance to Stadium: Not specified Covered/Uncovered: Not specified Tailgating Allowed: No Nearest Gate: Gate 1
+Name: Lot 57 Distance to Stadium: 0.7 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 2, 3, or
+Name: Lot 6 Distance to Stadium: 0.9 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 2, 3, or
+Name: Lot 77 Distance to Stadium: 0.25 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Not specified
+Name: Lot C Distance to Stadium: 0.5 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gates 2, 3, or 4
+Name: Lot D Distance to Stadium: 0.9 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gates 2, 3, 4
+Name: Lot G Distance to Stadium: 0.8 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gates 2, 3, or 4
+Name: Lot M Distance to Stadium: 0.2 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 1 Distance to Nearest Gate
+Name: Lot P Distance to Stadium: 0.35 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 4
+Name: Lot Y - YMCA Distance to Stadium: 0.4 miles Covered/Uncovered: Uncovered Tailgating Allowed: No Nearest Gate: Gate 1
+Name: Lot Z Distance to Stadium: 0.4 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 1
+Name: Marshalling Yard Distance to Stadium: 0.7 miles Covered/Uncovered: Uncovered Tailgating Allowed: No Nearest Gate: Not specified
+Name: Marshalling Yard 4 Distance to Stadium: 0.7 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 1, 10 minute
+Name: Mercedes-Benz Lot Distance to Stadium: 0.1 miles Covered/Uncovered: Uncovered Tailgating Allowed: No Nearest Gate: Gate 1
+Name: Morris Brown College Distance to Stadium: 0.5 miles Covered/Uncovered: Uncovered Tailgating Allowed: No Nearest Gate: Not specified
+Name: Nelson St. Distance to Stadium: 0.3 miles Covered/Uncovered: Uncovered Tailgating Allowed: No Nearest Gate: Not specified
+Name: North Gate 1 Distance to Stadium: 0.1 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 1 Distance to Ne
+Name: Orange Deck Distance to Stadium: 0.01 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Gate 2 (adjacent)
+Name: Red Deck Distance to Stadium: 0.1 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Gate 2 (3-minute walk)
+Name: Ruby Lot Distance to Stadium: 0.3 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Not specified
+Name: Ruby Lot - Tailgating Distance to Stadium: 0.3 miles Covered/Uncovered: Covered Tailgating Allowed: Yes Nearest Gate: Not specified
+Name: Sapphire Deck Distance to Stadium: 0.3 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Not specified
+Name: Security Lot Distance to Stadium: 0.1 miles Covered/Uncovered: Uncovered Tailgating Allowed: No Nearest Gate: Not specified
+Name: Silver Deck Distance to Stadium: 0.05 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Gate 3, Gate 4, Silver Deck Bridge
+Name: South Lot Distance to Stadium: 0.1 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Not specified
+Name: State Farm Drive Distance to Stadium: 0.11 miles Covered/Uncovered: Uncovered Tailgating Allowed: No Nearest Gate: Gate #5, a few feet away
+Name: SunTrust Plaza Distance to Stadium: 1.1 miles Covered/Uncovered: Covered Tailgating Allowed: No Nearest Gate: Not specified
+Name: The Home Depot Backyard Distance to Stadium: 0.01 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 1
+Name: The Home Depot Backyard West Distance to Stadium: 0.01 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 1
+Name: Yellow Lot Distance to Stadium: 0.08 miles Covered/Uncovered: Uncovered Tailgating Allowed: Yes Nearest Gate: Gate 1, 0.08 miles
